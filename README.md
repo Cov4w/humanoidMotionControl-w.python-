@@ -16,3 +16,4 @@ https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downlo
 ## 4. 결과물
 ### 프로그램 실행시 com3가 정상적으로 잡히고 동작버튼을 누르면 해당 동작을 잘 수행하는 것을 볼 수 있습니다.
 ![image_02](images/pySerial_003.png)
+![image_03](images/pySerial_004.png)
